@@ -7,7 +7,7 @@
 
 🚀 **Projects:**
 - Obstacle Avoiding Robot
-- Vigil AI-amrt protection app
+- Vigil AI-Smart  privacy protection app
 - RPG Gaming app
 
 📚 **Currently Learning:**
